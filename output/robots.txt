@@ -1,0 +1,4 @@
+Sitemap: http://www.fairbluesky.com/sitemapindex.xml
+
+User-Agent: *
+Host: www.fairbluesky.com
