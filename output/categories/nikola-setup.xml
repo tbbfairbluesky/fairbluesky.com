@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>FairBlueSky.com (Posts about "nikola setup")</title><link>http://www.fairbluesky.com/</link><description></description><atom:link type="application/rss+xml" rel="self" href="http://www.fairbluesky.com/categories/nikola-setup.xml"></atom:link><language>en</language><copyright>Contents © 2018 &lt;a href="mailto:tbb@FairBlueSky.com"&gt;Timothy B. Brown&lt;/a&gt; </copyright><lastBuildDate>Tue, 13 Mar 2018 17:59:36 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Another thing</title><link>http://www.fairbluesky.com/posts/another-thing.html</link><dc:creator>Timothy B. Brown</dc:creator><description>&lt;blockquote&gt;
+&lt;p&gt;This is information about setting up nikola&lt;/p&gt;
+&lt;p&gt;I need to learn rst&lt;/p&gt;
+&lt;p&gt;Write some stuff&lt;/p&gt;
+&lt;p&gt;Write your post here.&lt;/p&gt;
+&lt;/blockquote&gt;</description><category>"nikola setup"</category><guid>http://www.fairbluesky.com/posts/another-thing.html</guid><pubDate>Tue, 13 Mar 2018 17:51:43 GMT</pubDate></item></channel></rss>
