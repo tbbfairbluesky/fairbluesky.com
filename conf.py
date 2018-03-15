@@ -28,6 +28,8 @@ SITE_URL = "http://www.fairbluesky.com/"
 BLOG_EMAIL = "tbb@FairBlueSky.com"
 BLOG_DESCRIPTION = "Just some interesting stuff."  # (translatable)
 
+SHOW_SOURCELINK = False
+
 # Nikola is multilingual!
 #
 # Currently supported languages are:
@@ -134,6 +136,7 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
+        ("/pages/quotes.html", "Quotes"),
         ("/archive.html", "Archive"),
         ("/categories/index.html", "Tags"),
         ("/rss.xml", "RSS feed"),
