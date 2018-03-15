@@ -22,5 +22,5 @@ Words to Live By
   <https://en.wikipedia.org/wiki/Henry_van_Dyke>`_
 
 * `You can't change the past, but you can ruin the present by worrying over the future. 
-  <http://www.searchquotes.com/quotation/You_can't_change_the_past,_but_you_can_ruin_the_present_by_worrying_about_the_future/21859/> --
-  `Isak Dinesen  <https://en.wikipedia.org/wiki/Karen_Blixen>`_
+  <http://www.searchquotes.com/quotation/You_can't_change_the_past,_but_you_can_ruin_the_present_by_worrying_about_the_future/21859/>`_ --
+  `Isak Dinesen <https://en.wikipedia.org/wiki/Karen_Blixen>`_
