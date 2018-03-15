@@ -150,6 +150,7 @@ THEME = "bootstrap3"
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
 THEME_COLOR = '#5670d4'
 
+
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
 #
