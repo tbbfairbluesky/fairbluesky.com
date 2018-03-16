@@ -11,11 +11,11 @@
  </url>
  <url>
   <loc>http://www.fairbluesky.com/2018/index.html</loc>
-  <lastmod>2018-03-15T13:42:00Z</lastmod>
+  <lastmod>2018-03-16T22:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.fairbluesky.com/archive.html</loc>
-  <lastmod>2018-03-16T21:27:00Z</lastmod>
+  <lastmod>2018-03-16T21:57:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.fairbluesky.com/authors/index.html</loc>
@@ -34,6 +34,14 @@
   <lastmod>2018-03-15T13:42:00Z</lastmod>
  </url>
  <url>
+  <loc>http://www.fairbluesky.com/categories/book-review.html</loc>
+  <lastmod>2018-03-16T22:00:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.fairbluesky.com/categories/cat_book-review.html</loc>
+  <lastmod>2018-03-16T22:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://www.fairbluesky.com/categories/cat_nikola.html</loc>
   <lastmod>2018-03-15T13:42:00Z</lastmod>
  </url>
@@ -43,7 +51,11 @@
  </url>
  <url>
   <loc>http://www.fairbluesky.com/categories/index.html</loc>
-  <lastmod>2018-03-16T21:27:00Z</lastmod>
+  <lastmod>2018-03-16T21:57:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.fairbluesky.com/categories/leonardo-da-vinci.html</loc>
+  <lastmod>2018-03-16T22:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.fairbluesky.com/categories/nikola-setup.html</loc>
@@ -62,6 +74,10 @@
   <lastmod>2018-03-15T13:42:00Z</lastmod>
  </url>
  <url>
+  <loc>http://www.fairbluesky.com/categories/walter-isaacson.html</loc>
+  <lastmod>2018-03-16T22:00:00Z</lastmod>
+ </url>
+ <url>
   <loc>http://www.fairbluesky.com/galleries/demo/index.html</loc>
   <lastmod>2018-03-16T21:27:00Z</lastmod>
  </url>
@@ -71,7 +87,7 @@
  </url>
  <url>
   <loc>http://www.fairbluesky.com/index.html</loc>
-  <lastmod>2018-03-16T21:27:00Z</lastmod>
+  <lastmod>2018-03-16T22:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.fairbluesky.com/listings/__pycache__/index.html</loc>
@@ -152,6 +168,10 @@
  <url>
   <loc>http://www.fairbluesky.com/posts/another-thing.html</loc>
   <lastmod>2018-03-15T13:42:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.fairbluesky.com/posts/review-of-leonard-da-vinci-by-walter-isaacson.html</loc>
+  <lastmod>2018-03-16T22:00:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.fairbluesky.com/posts/this-is-a-test-post.html</loc>
